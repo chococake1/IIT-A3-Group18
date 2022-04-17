@@ -35,7 +35,12 @@
                 width: 50%;
                 border-radius: 8px;
             }
-            table, th, td
+            table
             {
                 border: 1px solid white;
+            }
+            th, td
+            {
+                color: azure;
+                background-color: #6a6a6a;
             }
