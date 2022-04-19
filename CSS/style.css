@@ -35,6 +35,15 @@
                 width: 50%;
                 border-radius: 8px;
             }
+            .personal {
+                position: relative;
+                margin-left: auto;
+                margin-right: auto;
+                left: 100px;
+                right: 320px;
+                bottom: 295px;
+                width: 60%;
+              }
             table
             {
                 border: 1px solid white;
