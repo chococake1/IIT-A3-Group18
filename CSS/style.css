@@ -48,6 +48,10 @@
             {
                 border: 1px solid white;
             }
+            li
+            {
+                color: azure;
+            }
             th, td
             {
                 color: azure;
